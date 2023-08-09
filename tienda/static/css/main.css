@@ -97,7 +97,7 @@ aside {
 input[type="text"] {
     padding: 5px;
     border: 2px solid #00000018;
-    border-radius: 25px;
+    border-radius: 50px;
     font-size: 12px;
     transition: border-color 0.3s, box-shadow 0.3s;
     outline: none;
